@@ -1,2 +1,4 @@
-# how-we-work
-How we work in tracersoft
+# How we work
+
+Welcome to tracersoft, this will guide you through our development process.
+
